@@ -1,0 +1,32 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1424368",
+    "http://schema.org/name": "Yearbooks"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/531645",
+    "http://schema.org/name": "University of California, Davis. School of Medicine"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/549782",
+    "http://schema.org/name": "University of California, Davis [Undergraduate]"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/554191",
+    "http://schema.org/name": "University of California, Davis. School of Veterinary Medicine"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/595691",
+    "http://schema.org/name": "University of California, Davis. School of Law"
+  }
+]
