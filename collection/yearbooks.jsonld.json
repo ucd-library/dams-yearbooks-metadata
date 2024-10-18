@@ -24,7 +24,10 @@
     "@value": "2022"
   },
   "schema:description": "This collection includes preservation copies of the UC Davis undergraduate yearbooks, the School of Veterinary Medicine’s *Centaur*, the *School of Medicine* yearbooks (titled *Anomalies and Curiosities* until 1992), and the 2000 *King Hall School of Law* yearbook. \n\n *Agricola*, issued in 1911, was the first UC yearbook specific to the Davis campus. The yearbook changed title to *Farm Rodeo* in 1917 and then to *The Rodeo* in 1927, continuing with that title until the early 1970s. Publication of an undergraduate yearbook was suspended during the 1970s, with the notable exception of the 1971 *Yearbox*, a portfolio containing a variety of items including a 45 RPM record. In 1979, the yearbook re-emerged under the title *El Rodeo*, which it retained for most of the following years. The 1980s saw a few short-lived title changes (*Haystack* in 1983 and *Aggie Life* from 1985-1986) and a hiatus in publication from 1988-1993. From 1994 to its final edition in 2006, the yearbook remained titled *El Rodeo*. \n\nAdvisory: Historical documents may contain outdated terminology or distressing content which may be considered inappropriate or offensive to individuals or communities.",
-  "schema:identifier": "AR-096",
+  "schema:identifier": [
+    "AR-096",
+    "ark:/87293/d32z12w9x"
+  ],
   "schema:image": {
     "@id": "info:fedora/item/ark:/87293/d38911w0g/media/images/ElRodeo_1998_001.tif"
   },
