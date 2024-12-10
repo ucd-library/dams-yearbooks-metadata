@@ -36,7 +36,7 @@
     "ark:/87293/d3dv1cs8w"
   ],
   "schema:image": {
-    "@id": "@base:/media/Rodeo_1925_001.tif"
+    "@id": "@base:/media/images/Rodeo_1925_001.tif"
   },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

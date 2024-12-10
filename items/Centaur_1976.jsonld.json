@@ -36,7 +36,7 @@
     "ark:/87293/d3tm7254r"
   ],
   "schema:image": {
-    "@id": "@base:/media/Centaur_1976_001.tif"
+    "@id": "@base:/media/images/Centaur_1976_001.tif"
   },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

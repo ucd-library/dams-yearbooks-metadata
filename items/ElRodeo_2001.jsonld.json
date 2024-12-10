@@ -36,7 +36,7 @@
     "ark:/87293/d3w37m103"
   ],
   "schema:image": {
-    "@id": "@base:/media/ElRodeo_2001_001.tif"
+    "@id": "@base:/media/images/ElRodeo_2001_001.tif"
   },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

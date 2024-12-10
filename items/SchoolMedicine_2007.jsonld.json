@@ -36,7 +36,7 @@
     "ark:/87293/d33f4ks54"
   ],
   "schema:image": {
-    "@id": "@base:/media/SchoolMedicine_2007_001.tif"
+    "@id": "@base:/media/images/SchoolMedicine_2007_001.tif"
   },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

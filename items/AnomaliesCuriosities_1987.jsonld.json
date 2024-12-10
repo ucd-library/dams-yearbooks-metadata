@@ -36,7 +36,7 @@
     "AR-096"
   ],
   "schema:image": {
-    "@id": "@base:/media/AnomaliesCuriosities_1987_001.tif"
+    "@id": "@base:/media/images/AnomaliesCuriosities_1987_001.tif"
   },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

@@ -36,7 +36,7 @@
     "ark:/87293/d3513v11r"
   ],
   "schema:image": {
-    "@id": "@base:/media/AnomaliesCuriosities_1980_001.tif"
+    "@id": "@base:/media/images/AnomaliesCuriosities_1980_001.tif"
   },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

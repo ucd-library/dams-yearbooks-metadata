@@ -36,7 +36,7 @@
     "ark:/87293/d3tq5rj7p"
   ],
   "schema:image": {
-    "@id": "@base:/media/Agricola_1912_001.tif"
+    "@id": "@base:/media/images/Agricola_1912_001.tif"
   },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
