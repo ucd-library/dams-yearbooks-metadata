@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "078",
+  "schema:alternativeHeadline": "2024 El Rodeo, printed page 77. Sustainability scrapbook shows an outdoor upcycling booth, a networking event in a meeting room, and a rack of free professional clothing.",
+  "ebucore:filename": "25716-000-24_077.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

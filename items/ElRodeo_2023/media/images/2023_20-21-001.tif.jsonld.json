@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "022",
+  "schema:alternativeHeadline": "2023 El Rodeo, printed page 21. Unitrans collage shows battery-electric buses charging, a Stuff the Bus donation event, a decorated Picnic Day double-decker, and a vertical lineup of five bus models beside a red telephone-box drawing.",
+  "ebucore:filename": "2023_20-21-001.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

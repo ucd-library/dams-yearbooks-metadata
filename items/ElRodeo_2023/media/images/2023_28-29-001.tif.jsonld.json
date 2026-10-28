@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "030",
+  "schema:alternativeHeadline": "2023 El Rodeo, printed page 29. External Affairs scrapbook shows students at the U.S. Capitol and other government buildings, a Campus of the Year award, staff selfies and an outdoor group.",
+  "ebucore:filename": "2023_28-29-001.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

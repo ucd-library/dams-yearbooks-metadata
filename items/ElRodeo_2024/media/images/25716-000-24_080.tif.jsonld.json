@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "081",
+  "schema:alternativeHeadline": "2024 El Rodeo, printed page 80. Left half of a full-bleed campus panorama shows bicycle racks and a walkway beneath red-leafed trees in warm evening light. Continues on printed page 81.",
+  "ebucore:filename": "25716-000-24_080.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

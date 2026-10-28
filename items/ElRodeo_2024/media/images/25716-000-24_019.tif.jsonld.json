@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "020",
+  "schema:alternativeHeadline": "2024 El Rodeo, printed page 19. Coffee House scrapbook shows staff at the serving counter, a shared meal, executive chef Ryan Guzman in a kitchen, and a staff group near the food stations.",
+  "ebucore:filename": "25716-000-24_019.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

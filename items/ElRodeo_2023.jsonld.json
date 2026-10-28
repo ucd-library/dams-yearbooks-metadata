@@ -1,0 +1,57 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Book",
+    "schema:ImageObject",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1424368"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/549782"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/ElRodeo_2023.pdf"
+  },
+  "schema:creator": "University of California, Davis. Associated Students",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2023"
+  },
+  "schema:identifier": [
+    "ark:/87293/d3n87395f",
+    "AR-096"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/images/2023_Cover-001.tif"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "2023 El Rodeo",
+  "schema:publisher": "Associated Students, University of California at Davis",
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": [
+    "UC Davis, Archives and Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ],
+  "schema:description": "El Rodeo, the Associated Students of the University of California, Davis yearbook for 2023. Includes ASUCD units, student government, commissions and committees. 76 numbered pages with front and back covers.",
+  "schema:editor": "Kayla Lunde"
+}

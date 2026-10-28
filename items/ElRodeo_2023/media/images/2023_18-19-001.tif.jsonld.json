@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "020",
+  "schema:alternativeHeadline": "2023 El Rodeo, printed page 19. Pantry photographs show a mobile food-distribution event, fresh produce, an open-house workspace, volunteers together and a relaxed indoor social gathering.",
+  "ebucore:filename": "2023_18-19-001.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

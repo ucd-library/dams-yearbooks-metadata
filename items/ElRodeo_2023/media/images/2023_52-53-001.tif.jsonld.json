@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "054",
+  "schema:alternativeHeadline": "2023 El Rodeo, printed page 53. Internal Affairs Commission roster pairs circular portraits with names and quotations. Photographs below show hands making friendship bracelets and a commission meeting.",
+  "ebucore:filename": "2023_52-53-001.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

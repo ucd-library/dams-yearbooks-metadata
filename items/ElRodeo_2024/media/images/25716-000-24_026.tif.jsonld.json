@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "027",
+  "schema:alternativeHeadline": "2024 El Rodeo, printed page 26. ASUCD Information Technology page shows a rack of network equipment with yellow and blue cables, and a staff group at a bowling alley.",
+  "ebucore:filename": "25716-000-24_026.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

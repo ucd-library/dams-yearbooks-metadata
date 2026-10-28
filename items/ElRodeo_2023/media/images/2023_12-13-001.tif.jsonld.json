@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "014",
+  "schema:alternativeHeadline": "2023 El Rodeo, printed page 13. Housing-program photographs show custom buttons and photo strips, a housing-week scavenger-hunt booth, students gathered at the Coffee House and a busy housing-fair table.",
+  "ebucore:filename": "2023_12-13-001.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}
