@@ -51,11 +51,5 @@
     {
       "@id": "http://id.loc.gov/authorities/names/no2008108707"
     }
-  ],
-  "schema:description": "El Rodeo, the Associated Students of the University of California, Davis yearbook for 2024. Includes ASUCD units, student government, commissions and committees. 88 numbered pages with front and back covers.",
-  "schema:contributor": [
-    "Kayla Lunde",
-    "Alex Motawi",
-    "Joanne Sun"
   ]
 }
